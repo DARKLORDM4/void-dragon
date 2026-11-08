@@ -1,0 +1,39 @@
+{
+  "description": {
+    "text": "Tail Knock"
+  },
+  "supported_items": "minecraft:stick",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 100,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 100,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 8,
+  "slots": [
+    "any"
+  ],
+  "effects": {
+    "minecraft:tick": [
+      {
+        "effect": {
+          "type": "minecraft:explode",
+          "radius": 2.6,
+          "knockback_multiplier": 3.4,
+          "block_interaction": "none",
+          "small_particle": {
+            "type": "minecraft:gust_emitter_small"
+          },
+          "large_particle": {
+            "type": "minecraft:gust_emitter_large"
+          },
+          "sound": "minecraft:entity.player.attack.knockback"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:end/kill_dragon",
+  "display": {
+    "icon": {
+      "id": "minecraft:dragon_head"
+    },
+    "title": {
+      "text": "DRAGON SLAYER",
+      "color": "light_purple"
+    },
+    "description": {
+      "text": "Deal the most damage in the dragon fight (the Ender Dragon and its Voidborn Brothers)"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "slayer": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}

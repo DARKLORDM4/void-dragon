@@ -1,0 +1,8 @@
+{
+  "values": [
+    "void_dragon:attack/shriek/fx_core",
+    "void_dragon:attack/shriek/fx_pillars",
+    "void_dragon:attack/shriek/fx_pulses",
+    "void_dragon:attack/shriek/fx_sound"
+  ]
+}

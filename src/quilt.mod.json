@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "io.github.darklordm",
+    "id": "void_dragon",
+    "version": "1.0",
+    "metadata": {
+      "name": "Void Dragon",
+      "description": "Void Dragon: a brutal multi-phase Ender Dragon boss fight with crystal shields, the Voidborn Brothers mini-bosses, Void Lances, Abyssal Orbs, Rift Tear, Void Shriek, Gravity Crash and the Dragon Wings reward. Inspired by True Ending by limesplatus.",
+      "contributors": {
+        "DARK_LORD_M": "Owner",
+        "limesplatus": "Inspiration (True Ending)"
+      },
+      "icon": "pack.png"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "depends": [
+      {
+        "id": "quilt_resource_loader",
+        "versions": "*",
+        "unless": "fabric-resource-loader-v0"
+      }
+    ]
+  }
+}

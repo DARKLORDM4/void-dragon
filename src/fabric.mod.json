@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "void_dragon",
+  "version": "1.0",
+  "name": "Void Dragon",
+  "description": "Void Dragon: a brutal multi-phase Ender Dragon boss fight with crystal shields, the Voidborn Brothers mini-bosses, Void Lances, Abyssal Orbs, Rift Tear, Void Shriek, Gravity Crash and the Dragon Wings reward. Inspired by True Ending by limesplatus.",
+  "authors": [
+    "DARK_LORD_M"
+  ],
+  "contributors": [
+    "limesplatus (True Ending, the inspiration)"
+  ],
+  "license": "LicenseRef-VoidDragon",
+  "icon": "pack.png",
+  "environment": "*",
+  "depends": {
+    "fabric-resource-loader-v0": "*"
+  }
+}

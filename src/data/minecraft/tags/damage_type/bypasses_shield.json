@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "void_dragon:void_pierce",
+    "void_dragon:void_crush",
+    "void_dragon:void_quake"
+  ]
+}

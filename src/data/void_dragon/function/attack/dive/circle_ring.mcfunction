@@ -1,0 +1,13 @@
+# 12 dust motes on a 7 block circle around the dive spot (rotated by the caller)
+execute rotated ~0 0 positioned ^ ^0.15 ^7 run particle dust{color:[1.0,0.15,0.35],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~30 0 positioned ^ ^0.15 ^7 run particle dust{color:[0.75,0.1,0.95],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~60 0 positioned ^ ^0.15 ^7 run particle dust{color:[1.0,0.15,0.35],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~90 0 positioned ^ ^0.15 ^7 run particle dust{color:[0.75,0.1,0.95],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~120 0 positioned ^ ^0.15 ^7 run particle dust{color:[1.0,0.15,0.35],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~150 0 positioned ^ ^0.15 ^7 run particle dust{color:[0.75,0.1,0.95],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~180 0 positioned ^ ^0.15 ^7 run particle dust{color:[1.0,0.15,0.35],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~210 0 positioned ^ ^0.15 ^7 run particle dust{color:[0.75,0.1,0.95],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~240 0 positioned ^ ^0.15 ^7 run particle dust{color:[1.0,0.15,0.35],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~270 0 positioned ^ ^0.15 ^7 run particle dust{color:[0.75,0.1,0.95],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~300 0 positioned ^ ^0.15 ^7 run particle dust{color:[1.0,0.15,0.35],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]
+execute rotated ~330 0 positioned ^ ^0.15 ^7 run particle dust{color:[0.75,0.1,0.95],scale:1.6} ~ ~ ~ 0 0 0 0 1 force @a[distance=..128]

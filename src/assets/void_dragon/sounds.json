@@ -1,0 +1,10 @@
+{
+  "boss_theme": {
+    "sounds": [
+      {
+        "name": "void_dragon:boss_theme",
+        "stream": true
+      }
+    ]
+  }
+}

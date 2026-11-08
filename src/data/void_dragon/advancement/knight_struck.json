@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "struck": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "minecraft:entity_type": "minecraft:wither_skeleton"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "void_dragon:brothers/knight/no_wither"
+  }
+}

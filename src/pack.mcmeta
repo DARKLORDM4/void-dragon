@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 71,
+    "min_format": 71,
+    "max_format": 9999,
+    "supported_formats": {
+      "min_inclusive": 71,
+      "max_inclusive": 9999
+    },
+    "description": [
+      {
+        "text": "Void Dragon",
+        "color": "dark_purple"
+      },
+      {
+        "text": " [V1.0]",
+        "color": "#707070"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Ender Dragon boss overhaul",
+        "color": "#898f96"
+      }
+    ]
+  }
+}

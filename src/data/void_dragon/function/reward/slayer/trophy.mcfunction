@@ -1,0 +1,1 @@
+give @s dragon_head[custom_name={text:"Dragon Slayer Trophy",color:"light_purple",italic:false},lore=[{text:"Awarded for dealing the most damage to the Ender Dragon",color:"gray",italic:false}],enchantment_glint_override=true]

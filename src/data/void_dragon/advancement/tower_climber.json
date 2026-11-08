@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:end/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:obsidian"
+    },
+    "title": {
+      "text": "Tower Climber",
+      "color": "light_purple"
+    },
+    "description": {
+      "text": "Stand on top of one of the outer obsidian towers"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "climbed": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

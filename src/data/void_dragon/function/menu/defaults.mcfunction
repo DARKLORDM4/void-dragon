@@ -1,0 +1,41 @@
+# every setting that was never set gets its default (run on load)
+execute unless score dragonhealth vd.cfg = dragonhealth vd.cfg run scoreboard players set dragonhealth vd.cfg 300
+execute unless score dmg_cap vd.cfg = dmg_cap vd.cfg run scoreboard players set dmg_cap vd.cfg 15
+execute unless score dragon_difficulty vd.cfg = dragon_difficulty vd.cfg run scoreboard players set dragon_difficulty vd.cfg 1
+execute unless score attack_frequency vd.cfg = attack_frequency vd.cfg run scoreboard players set attack_frequency vd.cfg 5
+execute unless score combo_attacks vd.cfg = combo_attacks vd.cfg run scoreboard players set combo_attacks vd.cfg 50
+execute unless score vanilla_attacks vd.cfg = vanilla_attacks vd.cfg run scoreboard players set vanilla_attacks vd.cfg 3
+execute unless score lance_attack vd.cfg = lance_attack vd.cfg run scoreboard players set lance_attack vd.cfg 1
+execute unless score orb_attack vd.cfg = orb_attack vd.cfg run scoreboard players set orb_attack vd.cfg 1
+execute unless score rift_attack vd.cfg = rift_attack vd.cfg run scoreboard players set rift_attack vd.cfg 1
+execute unless score thunder_attack vd.cfg = thunder_attack vd.cfg run scoreboard players set thunder_attack vd.cfg 1
+execute unless score pull_attack vd.cfg = pull_attack vd.cfg run scoreboard players set pull_attack vd.cfg 1
+execute unless score meteor_attack vd.cfg = meteor_attack vd.cfg run scoreboard players set meteor_attack vd.cfg 1
+execute unless score vfire_attack vd.cfg = vfire_attack vd.cfg run scoreboard players set vfire_attack vd.cfg 1
+execute unless score shriek_attack vd.cfg = shriek_attack vd.cfg run scoreboard players set shriek_attack vd.cfg 1
+execute unless score dive_attack vd.cfg = dive_attack vd.cfg run scoreboard players set dive_attack vd.cfg 1
+execute unless score slam_attack vd.cfg = slam_attack vd.cfg run scoreboard players set slam_attack vd.cfg 1
+execute unless score laststand vd.cfg = laststand vd.cfg run scoreboard players set laststand vd.cfg 1
+execute unless score brothers vd.cfg = brothers vd.cfg run scoreboard players set brothers vd.cfg 1
+execute unless score bro_damage vd.cfg = bro_damage vd.cfg run scoreboard players set bro_damage vd.cfg 0
+execute unless score brothers_hard vd.cfg = brothers_hard vd.cfg run scoreboard players set brothers_hard vd.cfg 0
+execute unless score minions vd.cfg = minions vd.cfg run scoreboard players set minions vd.cfg 1
+execute unless score wardens vd.cfg = wardens vd.cfg run scoreboard players set wardens vd.cfg 1
+execute unless score crystal_shield vd.cfg = crystal_shield vd.cfg run scoreboard players set crystal_shield vd.cfg 1
+execute unless score crystal_turrets vd.cfg = crystal_turrets vd.cfg run scoreboard players set crystal_turrets vd.cfg 1
+execute unless score crystal_retaliation vd.cfg = crystal_retaliation vd.cfg run scoreboard players set crystal_retaliation vd.cfg 1
+execute unless score tower_affixes vd.cfg = tower_affixes vd.cfg run scoreboard players set tower_affixes vd.cfg 1
+execute unless score crystal_counter vd.cfg = crystal_counter vd.cfg run scoreboard players set crystal_counter vd.cfg 1
+execute unless score crystal_beacon vd.cfg = crystal_beacon vd.cfg run scoreboard players set crystal_beacon vd.cfg 1
+execute unless score dragon_block_damage vd.cfg = dragon_block_damage vd.cfg run scoreboard players set dragon_block_damage vd.cfg 0
+execute unless score pearl_break vd.cfg = pearl_break vd.cfg run scoreboard players set pearl_break vd.cfg 1
+execute unless score wings_every_kill vd.cfg = wings_every_kill vd.cfg run scoreboard players set wings_every_kill vd.cfg 0
+execute unless score dragon_xp_multiplier vd.cfg = dragon_xp_multiplier vd.cfg run scoreboard players set dragon_xp_multiplier vd.cfg 20
+execute unless score victory_fx vd.cfg = victory_fx vd.cfg run scoreboard players set victory_fx vd.cfg 1
+execute unless score music_boss vd.cfg = music_boss vd.cfg run scoreboard players set music_boss vd.cfg 1
+execute unless score respawn_sound vd.cfg = respawn_sound vd.cfg run scoreboard players set respawn_sound vd.cfg 1
+execute unless score intro vd.cfg = intro vd.cfg run scoreboard players set intro vd.cfg 1
+execute unless score dragon_trail vd.cfg = dragon_trail vd.cfg run scoreboard players set dragon_trail vd.cfg 1
+execute unless score ambience vd.cfg = ambience vd.cfg run scoreboard players set ambience vd.cfg 1
+execute unless score shield_crystals vd.cfg matches 1.. run scoreboard players set shield_crystals vd.cfg 6
+execute unless data storage void_dragon:storage settings.dragon_music_slider run data merge storage void_dragon:storage {settings:{dragon_music_slider:"master"}}

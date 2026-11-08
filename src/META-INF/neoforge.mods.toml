@@ -1,0 +1,7 @@
+modLoader = 'lowcodefml'
+loaderVersion = '[40,)'
+license = 'LicenseRef-VoidDragon'
+showAsResourcePack = false
+mods = [
+	{ modId = 'void_dragon', version = '1.0', displayName = 'Void Dragon', description = 'Void Dragon: a brutal multi-phase Ender Dragon boss fight with crystal shields, the Voidborn Brothers mini-bosses, Void Lances, Abyssal Orbs, Rift Tear, Void Shriek, Gravity Crash and the Dragon Wings reward. Inspired by True Ending by limesplatus.', logoFile = 'pack.png', authors = 'DARK_LORD_M', credits = 'Inspired by True Ending by limesplatus' },
+]

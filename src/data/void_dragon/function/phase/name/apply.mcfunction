@@ -1,0 +1,8 @@
+# context: the dragon. Boss-bar name = Ender Dragon + current phase (+ [Shielded] while the shield is up).
+# Phase I (above 2/3 health) shows no phase on purpose, so the later phases stay a surprise. Phase II: 2/3 to 1/3. Desperate: below 1/3. Refreshed once a second from a_main.
+execute if entity @s[tag=!vd.stage2] unless score shield_up vd.state matches 1 run data modify entity @s CustomName set value {"translate":"entity.minecraft.ender_dragon"}
+execute if entity @s[tag=!vd.stage2] if score shield_up vd.state matches 1 run data modify entity @s CustomName set value {"translate":"entity.minecraft.ender_dragon","extra":[{"text":" [Shielded]","color":"aqua","bold":false}]}
+execute if entity @s[tag=vd.stage2,tag=!vd.stage3] unless score shield_up vd.state matches 1 run data modify entity @s CustomName set value {"translate":"entity.minecraft.ender_dragon","extra":[{"text":" - Phase II","color":"gold"}]}
+execute if entity @s[tag=vd.stage2,tag=!vd.stage3] if score shield_up vd.state matches 1 run data modify entity @s CustomName set value {"translate":"entity.minecraft.ender_dragon","extra":[{"text":" - Phase II","color":"gold"},{"text":" [Shielded]","color":"aqua","bold":false}]}
+execute if entity @s[tag=vd.stage3] unless score shield_up vd.state matches 1 run data modify entity @s CustomName set value {"translate":"entity.minecraft.ender_dragon","color":"red","bold":true,"extra":[{"text":" - Desperate","color":"red","bold":true}]}
+execute if entity @s[tag=vd.stage3] if score shield_up vd.state matches 1 run data modify entity @s CustomName set value {"translate":"entity.minecraft.ender_dragon","color":"red","bold":true,"extra":[{"text":" - Desperate","color":"red","bold":true},{"text":" [Shielded]","color":"aqua","bold":false}]}

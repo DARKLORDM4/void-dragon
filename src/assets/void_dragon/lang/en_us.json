@@ -1,0 +1,12 @@
+{
+  "death.attack.void_dragon.strike": "%1$s was torn apart by the void",
+  "death.attack.void_dragon.strike.player": "%1$s was torn apart by %2$s's void magic",
+  "death.attack.void_dragon.pierce": "%1$s was skewered by the void",
+  "death.attack.void_dragon.pierce.player": "%1$s was skewered by %2$s",
+  "death.attack.void_dragon.crush": "%1$s was crushed by the void",
+  "death.attack.void_dragon.crush.player": "%1$s was crushed by %2$s's fury",
+  "death.attack.void_dragon.dive": "%1$s was flattened by a diving dragon",
+  "death.attack.void_dragon.dive.player": "%1$s was flattened when %2$s dove from the sky",
+  "death.attack.void_dragon.quake": "%1$s didn't jump the quake",
+  "death.attack.void_dragon.quake.player": "%1$s didn't jump %2$s's quake"
+}

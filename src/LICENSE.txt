@@ -1,0 +1,77 @@
+Void Dragon License
+Applies to: Void Dragon V1.0 and later, unless a newer license is included
+
+Copyright (c) 2026 DARK_LORD_M. All rights reserved.
+
+This license applies to the Minecraft mod "Void Dragon" (mod ID: void_dragon),
+including its code, functions, textures, models, sounds and other files made by
+the author (together, "the Mod"). By downloading or using the Mod, you agree to
+these terms.
+
+1. WHAT YOU CAN DO
+
+- Play it. You may download the Mod from an official source and use it on your
+  own computer or on any server, public or private.
+- Make videos and streams. You may record, stream and post videos, screenshots
+  and reviews of the Mod, and you may earn money from that content. A link to
+  the official download page is appreciated.
+- Use it in modpacks. You may include the Mod in modpacks on Modrinth or
+  CurseForge, as long as the pack gets the Mod from its official page (or
+  includes it unchanged) and credits the author. Paid or paywalled packs are
+  not allowed.
+- Learn from it. You may look at the Mod's files to learn how it works and make
+  your own work inspired by it, as long as you don't copy large parts of it.
+
+2. WHAT YOU CANNOT DO WITHOUT WRITTEN PERMISSION FROM THE AUTHOR
+
+- Reupload, mirror or redistribute the Mod by itself on any website, including
+  other mod sites.
+- Distribute a modified, patched, ported, translated or rebuilt version of the
+  Mod, or claim it as your own.
+- Publish a fork, remake, unofficial update or other derivative work that uses
+  the Mod's code or assets.
+- Sell the Mod, charge for access to it, or put it behind link shorteners, ad
+  links or paywalls.
+- Use the Mod's code or assets in another project you distribute.
+
+No reply does not mean permission. Permission only counts if the author gives
+it in writing (for example, a Discord message or an email).
+
+3. OFFICIAL DOWNLOAD SOURCES
+
+The Mod is only officially available from the author's Modrinth page (and any
+other page the author links from the DARK_LORD'S FORGE Discord server). Any
+other download source is unofficial and may be unsafe.
+
+4. THIRD-PARTY CONTENT
+
+This license covers only material made by the author. Third-party content
+included in or used by the Mod belongs to its owners and follows their own
+terms, and is NOT covered by this license. In particular:
+
+- The boss music "Battle Of The Dragons" is by TommyMutiu, used under the
+  Pixabay Content License (https://pixabay.com/service/license-summary/).
+  Source: https://pixabay.com/music/main-title-battle-of-the-dragons-8037/
+  It belongs to its creator. You may not extract it from the Mod and
+  distribute or sell it on its own.
+
+Void Dragon was inspired by the "True Ending" datapack by limesplatus.
+
+Minecraft is owned by Mojang Studios / Microsoft. The Mod is not affiliated
+with or endorsed by them.
+
+5. NO WARRANTY
+
+The Mod is provided "as is", without any warranty. The author is not
+responsible for any damage, data loss or world corruption caused by using it.
+Always back up your worlds.
+
+6. CHANGES TO THIS LICENSE
+
+The author may update this license for future versions of the Mod. Each version
+of the Mod is covered by the license included with it.
+
+7. CONTACT
+
+For permission requests or questions, contact DARK_LORD_M on Discord or through
+the DARK_LORD'S FORGE Discord server.

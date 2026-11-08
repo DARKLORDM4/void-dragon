@@ -1,0 +1,39 @@
+{
+  "description": {
+    "text": "Rift Heave"
+  },
+  "supported_items": "minecraft:stick",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 100,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 100,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 8,
+  "slots": [
+    "any"
+  ],
+  "effects": {
+    "minecraft:tick": [
+      {
+        "effect": {
+          "type": "minecraft:explode",
+          "radius": 3.0,
+          "knockback_multiplier": 3.2,
+          "block_interaction": "none",
+          "small_particle": {
+            "type": "minecraft:reverse_portal"
+          },
+          "large_particle": {
+            "type": "minecraft:sonic_boom"
+          },
+          "sound": "minecraft:block.end_portal_frame.fill"
+        }
+      }
+    ]
+  }
+}
