@@ -39,9 +39,11 @@ it in writing (for example, a Discord message or an email).
 
 3. OFFICIAL DOWNLOAD SOURCES
 
-The Mod is only officially available from the author's Modrinth page (and any
-other page the author links from the DARK_LORD'S FORGE Discord server). Any
-other download source is unofficial and may be unsafe.
+The Mod is only officially available from:
+- Modrinth: https://modrinth.com/mod/void-dragon-dark_lord_m
+- Source code (view only): https://github.com/DARKLORDM4/void-dragon
+and any other page the author links from the DARK_LORD'S FORGE Discord server.
+Any other download source is unofficial and may be unsafe.
 
 4. THIRD-PARTY CONTENT
 
